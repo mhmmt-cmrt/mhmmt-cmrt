@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Muhammet Cömert</h1>
 <h3 align="center">A passionate developer from Türkiye</h3>
 
-- 🌱 I’m currently learning ** Python, Data Analysis and AI Training**
+- 🌱 I’m currently learning Python, Data Analysis and AI Training
 
 - 👨‍💻 All of my projects are available at [https://github.com/mhmmt-cmrt](https://github.com/mhmmt-cmrt)
 
